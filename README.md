@@ -27,7 +27,7 @@
     <a href = "mailto: rrafacavalcante17@gmail">
       <img width="30" src="email.png">
     </a>
-    <a href = "www.linkedin.com/in/rafael-cavalcante-3029a024b/">
+    <a href = "https://www.linkedin.com/in/rafael-cavalcante-3029a024b/">
       <img width="25" src="linkedin1-removebg-preview.png">
     </a>
     <a href = "https://github.com/RafaelCavalcante17">
