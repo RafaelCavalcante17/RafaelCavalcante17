@@ -3,30 +3,30 @@
 ## Faaaala dev, Rafael Aqui!
 
 <!-- Organização dos itens -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <!-- Primeira linha com 3 itens -->
-  <div style="flex: 1 1 calc(33.33% - 10px); text-align: center;">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelCavalcante17&theme=algolia"/>
-  </div>
-  <div style="flex: 1 1 calc(33.33% - 10px); text-align: center;">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelCavalcante17&theme=algolia"/>
-  </div>
-  <div style="flex: 1 1 calc(33.33% - 10px); text-align: center;">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RafaelCavalcante17&theme=algolia&utcOffset=8"/>
-  </div>
-
-  <!-- Segunda linha com 2 itens -->
-  <div style="flex: 1 1 calc(50% - 10px); text-align: center;">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=RafaelCavalcante17&theme=algolia&hide_border=true&locale=pt_BR"/>
-  </div>
-  <div style="flex: 1 1 calc(50% - 10px); text-align: center;">
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelCavalcante17&theme=algolia"/>
-  </div>
-</div>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <!-- Primeira linha com 2 itens -->
+    <td align="center" style="border: 0;">
+      <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelCavalcante17&theme=algolia"/>
+    </td>
+    <td align="center" style="border: 0;">
+      <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelCavalcante17&theme=algolia"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Segunda linha com 2 itens -->
+    <td align="center" style="border: 0;">
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=RafaelCavalcante17&theme=algolia&hide_border=true&locale=pt_BR"/>
+    </td>
+    <td align="center" style="border: 0;">
+      <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelCavalcante17&theme=algolia"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Redes sociais -->
 <div align="center" style="margin-top: 20px;"> 
-  <div style="display: inline_block">
+  <div>
     <p>
       <a href="https://instagram.com/seu_perfil"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
       <a href="https://linkedin.com/in/seu_perfil"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
@@ -37,12 +37,18 @@
 </div>
 
 <!-- Tecnologias -->
-<div align="center" style="display: inline_block; margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,go" />
     </a>
   </p>
 </div>
+
+
+
+
+
+
 
 
