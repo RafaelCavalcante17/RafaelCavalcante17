@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0035ff&size=35&center=true&vCenter=true&width=1000&lines=Hello!+how+are+you?;Welcome+to+my+profile.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23Fala+Dev.+Seja+bem+vindo+!;Transformando+ideias+em+c%C3%B3digo+.)](https://git.io/typing-svg)
 
 ## Faaaala dev, Rafael Aqui!
 
