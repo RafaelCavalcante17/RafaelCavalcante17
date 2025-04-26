@@ -18,13 +18,15 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
+
+   
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: rrafacavalcante17@gmail">
       <img width="30" src="email.png">
     </a>
-    <a href = "https://www.linkedin.com/in/rafael-cavalcante-3029a024b/">
+    <a href = "www.linkedin.com/in/rafael-backend-developer/">
       <img width="25" src="linkedin1-removebg-preview.png">
     </a>
     <a href = "https://github.com/RafaelCavalcante17">
