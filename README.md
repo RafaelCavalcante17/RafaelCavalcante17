@@ -29,7 +29,7 @@
   <div>
     <p>
       <a href="https://instagram.com/rafaandreia2020"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-      <a href="https://linkedin.com/in/www.linkedin.com/in/rafael-backend-developer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+      <a href="https://linkedin.com/in/www.linkedin.com/in/https://www.linkedin.com/in/rafael-backend-developer/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
       <a href="mailto:rrafacavalcante17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
       <a href="https://discord.com/users/rafaelcavalcante"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
     </p>
