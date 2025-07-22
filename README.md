@@ -28,10 +28,10 @@
 <div align="center" style="margin-top: 20px;"> 
   <div>
     <p>
-      <a href="https://instagram.com/seu_perfil"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-      <a href="https://linkedin.com/in/seu_perfil"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-      <a href="mailto:seu_email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-      <a href="https://discord.com/users/seu_usuario"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+      <a href="https://instagram.com/rafaandreia2020"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+      <a href="https://linkedin.com/in/www.linkedin.com/in/rafael-backend-developer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+      <a href="mailto:rrafacavalcante17@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+      <a href="https://discord.com/users/rafaelcavalcante"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
     </p>
   </div>
 </div>
